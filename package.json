@@ -1,0 +1,15 @@
+{
+  "name": "node-mongodb-incantations",
+  "version": "1.0.0",
+  "description": "just, like, some code",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "V",
+  "license": "WTFPL",
+  "dependencies": {
+    "co": "^4.6.0",
+    "mongodb": "^2.2.10"
+  }
+}
